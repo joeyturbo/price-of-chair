@@ -5,7 +5,7 @@ import pymongo
 __author__ = 'jslvtr'
 
 
-class Database(object):å
+class Database(object):
     URI = os.environ.get("MONGOLAB_URI")
     DATABASE = None
 
