@@ -2,7 +2,7 @@
 
 
 
-DEBUG = False
+DEBUG = True
 ADMINS = frozenset([
     "joeyturbo@gmail.com"
 ])
